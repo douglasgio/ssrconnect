@@ -3,5 +3,5 @@
 ssrconnect mac 教程
 
 <center>
-![CSDN图标](./%7B5D4041E4-54D3-D241-8F81-EFB74BF95F21%7D.png)
+![CSDN图标](./1.png)
 </center>
