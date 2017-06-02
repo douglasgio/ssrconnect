@@ -3,5 +3,5 @@
 ssrconnect mac 教程
 
 <center>
-![CSDN图标](https://github.com/CoderJin/ssrconnect/blob/master/%7B5D4041E4-54D3-D241-8F81-EFB74BF95F21%7D.png "这是CSDN的图标")
+![CSDN图标](./%7B5D4041E4-54D3-D241-8F81-EFB74BF95F21%7D.png)
 </center>
