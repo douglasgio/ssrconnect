@@ -8,5 +8,6 @@ ssrconnect mac 教程
 如图2
 ![screenshot](1.png)
 
-如图3
+
+长按某一条数据，可以进行删除
 ![screenshot](3.png)
