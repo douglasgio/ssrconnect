@@ -8,5 +8,5 @@ ssrconnect mac 教程
 如图2
 ![screenshot](1.png)
 
-
+如图3
 ![screenshot](4.png)
